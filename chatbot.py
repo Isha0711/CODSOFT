@@ -22,12 +22,11 @@ def chatbot_response(user_input):
 
 # user and chatbot interaction
 
-
 def chat():
     print("Chatbot: Hello! Type 'bye' to exit.")
     while True:
         user_input = input("You: ")
-        if re.match(r"\b(bye|goodbye|by)\b", user_input.lower()):
+        if re.match(r"\b(bye|goodbye|by|tata)\b", user_input.lower()):
             print("Chatbot: Goodbye! Have a great day!")
             break
         response = chatbot_response(user_input)

@@ -5,8 +5,11 @@ A repo for AI task set for my internship at Codsoft.
 TicTacToe AI:
 With the use of Minimax algorithm integrated with alpha-beta pruning, I built a TicTacToe game that makes AI quite unbeatable. 
 
-
 **Task 2**
+Chatbot with rule-based responses:
+Using pattern matching, I built a simple chatbot with fixed set of responses for the specific queries of the user.
+
+**Task 3**
 Image Captioning:
 -Dataset: I used the flickr8k dataset (https://www.kaggle.com/datasets/adityajn105/flickr8k) for my model training.
 

@@ -12,3 +12,5 @@ Using pattern matching, I built a simple chatbot with fixed set of responses for
 **Task 3**
 Image Captioning:
 -Dataset:  Using the flickr8k dataset (https://www.kaggle.com/datasets/adityajn105/flickr8k) for my model training.
+-I used VGG16 model for feature extraction and caption is generated using the RNN model, LSTM.
+-The accuracy can be increased further by increasing no. of epochs and training for larger dataset if enough resources available.

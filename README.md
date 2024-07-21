@@ -1,5 +1,7 @@
 # CODSOFT
 A repo for AI task set for my internship at Codsoft.
+This virtual internship was more about wanting to try on some AI projects rather than just earning a certification. I also wanted to dwelve into what the hype was all over LinkedIn. Glad I did!
+So, the internship entailed completion of any three tasks out of the given five. I chose the three project tasks below:
 
 **Task 1**
 TicTacToe AI:
